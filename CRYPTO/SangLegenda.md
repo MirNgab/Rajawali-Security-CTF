@@ -11,4 +11,4 @@ Due to underscore being in the middle of the encoded flag, i have to decode it s
 
 ![image](https://github.com/user-attachments/assets/3dce8d1b-239b-475b-b4d9-68a0969bf7ee)
 
-CTFRST{M0RS3_C0D3}
+**CTFRST{M0RS3_C0D3}**
