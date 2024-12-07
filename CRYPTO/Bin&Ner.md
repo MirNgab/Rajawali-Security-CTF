@@ -3,7 +3,7 @@
 ### Solution
 It's a very simple first challenge, we're given a binary code that needs to be decrypted. With how many tools out there that can help us in doing this, there's no need to have deep thinking about this.
 
-We can simply use CyberChef to decrypt this, drag the entire given binary into the Input section, search "Binary" in the search Operations bar on the top left of the page, pick "From Binary" and drag it in to the recipe section and boom, we got the flag\
+We can simply use CyberChef to decrypt this, drag the entire given binary into the Input section, search "Binary" in the search Operations bar on the top left of the page, pick "From Binary" and drag it in to the recipe section and boom, we got the flag
 
 ![Screenshot_2024-12-07_10-19-09](https://github.com/user-attachments/assets/89b8aeba-7ffd-49d3-bf33-3a95d79168fb)
 
