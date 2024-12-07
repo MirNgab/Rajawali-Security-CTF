@@ -1,2 +1,2 @@
 ## Bin&Ner - 5 Point
-The very first challenge ini this CTF Website
+The very first challenge in this CTF Website
