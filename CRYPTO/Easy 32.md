@@ -15,5 +15,5 @@ It's basically almost the same as Base64, this one is just a toned down version 
 ```
 ┌──(ibnuraffi㉿kali)-[~]
 └─$ echo "INKEMUSTKR5UKYLTPFPWM33SL4ZTEX3QMVXXA3DFPU======" | base32 -d
-CTFRST{****_***_**_******}
+CTFRST{Easy_for_32_people}
 ```
