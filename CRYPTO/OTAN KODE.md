@@ -1,4 +1,4 @@
-## OTAN KODE - 5 Point
+# OTAN KODE - 5 Point
 > Ini Adalah Kode yang diberikan untuk peralatan militer dari Uni Soviet dan Republik Rakyat Tiongkok. Charlie Tango Foxtrot Romeo Sierra Tango { Four Lima Foxtrot Four Bravo Three Tango _ Foxtrot Zero November Three Tango One Kilo } coba terjemahkan :)
 ### Solution
 Searching the name of the nation that used this code will only give us a brief history lesson. But when searching the code one by one, a wikipedia page will appear explaining NATO phonetic alphabet.
