@@ -1,4 +1,4 @@
-## Easy 32 - 10 Point
+# Easy 32 - 10 Point
 > 10+22
 >
 > INKEMUSTKR5UKYLTPFPWM33SL4ZTEX3QMVXXA3DFPU======
