@@ -1,4 +1,4 @@
-## ABSTRACT - 10 Point
+# ABSTRACT - 10 Point
 > Nama Kode ini berasal dari huruf Ibrani pertama, terakhir, kedua, dan kedua hingga terakhir (  Aleph  -  Taw  -  Bet  -  Shin  ). XGUIHG{4gy4hs_x0w3} Coba Decodekan Pesan ini.
 ### Solution
 Searching Aelph - Taw - Bet - Shin on the internet gave me online tools that will help me decode **Atbash Cipher**, which is probably the encryption this challenge wants me to decrypt.
