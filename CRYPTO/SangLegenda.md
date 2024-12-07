@@ -1,4 +1,4 @@
-## SangLegenda - 5 Point
+# SangLegenda - 5 Point
 > Code ini diciptakan oleh Samuel F.B. Morse dan Alfred Vail pada tahun 1835. Tpi Aku tidak Tau di Mana Codenya Coba Cari Sendiriyh:)
 
 _**Hint :**_ -.-. - ..-. .-. ... - {-- ----- .-. ... ...-- _-.-. ----- -.. ...-- }
