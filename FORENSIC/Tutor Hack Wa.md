@@ -51,7 +51,7 @@ Shared Doc                      : No
 Hyperlinks Changed              : No
 App Version                     : 16.000
 ```
-It has to do with colors but i just can't find any idea in how to use this information, but there's one thing that i almost not pay my attention to, there's a second page and it's blank.
+It has to do with colors but i just can't find any idea on how to use this information, but there's one thing that i almost not pay my attention to, there's a second page and it's blank.
 
 ![image](https://github.com/user-attachments/assets/80bd1e7b-86ef-4b80-98ec-186abde91393)
 
