@@ -3,7 +3,7 @@
 
 _**Link :**_ https://pastebin.com/WEUR83Bt
 ### Solution
-This is something you need to do in C++ due to the cmath library, all we need is to fill the missing required headers and complete the rest of the code
+This is something you need to do in C++ due to the cmath library, all we need is to do now is to fill the missing required headers and complete the rest of the code
 ```
 #include <iostream>
 #include <cmath>
