@@ -1,7 +1,7 @@
 # Js Math - 10 Points
 > Output dari Math.LOG2E adalah
 ### Solution
-A simple JavaScript math task, Math.LOG2E is a constant that represent the base-2 logarithm of Euler's number e. We can simply output this using Node.js in terminal and it will give us the result.
+A simple JavaScript math task, Math.LOG2E is a constant that represent the base-2 logarithm of Euler's number e. We can simply do this using Node.js in terminal and it will give us the result.
 ```
 ┌──(ibnuraffi㉿kali)-[~/Desktop/rajawalictf]
 └─$ js
