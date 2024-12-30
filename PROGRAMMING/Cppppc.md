@@ -4,7 +4,7 @@
 _**Link :**_ https://pastebin.com/WEUR83Bt
 ### Solution
 This is something you need to do in C++ due to the cmath library (though you can do this in C as well i think but, i'm just following the procedure here lol), all we need is to do now is to fill the missing required headers and complete the rest of the code
-```
+```cpp
 #include <iostream>
 #include <cmath>
 
