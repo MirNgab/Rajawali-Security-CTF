@@ -6,7 +6,7 @@ _**File :**_ https://www.mediafire.com/file/zg00zax48w4chwn/tutor_hack_wa.docx/f
 ![image](https://github.com/user-attachments/assets/1448170f-adb2-40ce-8ff8-178a7baeaf53)
 
 This scared me a little when i opened the doc for the first time, but let's get to the point. I first used exiftool just in case if some information can be gathered in which there's a message
-```sh
+```
 ┌──(ibnuraffi㉿kali)-[~/Desktop/rajawalictf]
 └─$ exiftool tutor_hack_wa.docx 
 ExifTool Version Number         : 13.00
@@ -74,7 +74,7 @@ for paragraph in doc.paragraphs:
         if run.font.color and run.font.color.rgb == (255, 255, 255):
             print(run.text)
 ```
-```sh
+```
 ┌──(myenv)(root㉿kali)-[/home/ibnuraffi/Desktop/rajawalictf]
 └─# python extract_doc.py 
 CTFRST{h1d3_t3xt_w1th_c0l0r}
