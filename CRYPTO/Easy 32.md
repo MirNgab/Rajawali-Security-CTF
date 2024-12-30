@@ -12,7 +12,7 @@ It uses an alphabet of 32 digits, each of which represents a
 different combination of 5 bits (25).
 ```
 It's basically almost the same as Base64, this one is just a toned down version of it. We can decode the given Base32 text using CyberChef or Linux terminal.
-```
+```sh
 ┌──(ibnuraffi㉿kali)-[~]
 └─$ echo "INKEMUSTKR5UKYLTPFPWM33SL4ZTEX3QMVXXA3DFPU======" | base32 -d
 CTFRST{Easy_for_32_people}
